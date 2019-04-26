@@ -2,12 +2,12 @@
 [Back to the Ling\HtmlPageTools\Copilot\HtmlPageCopilot class](https://github.com/lingtalfi/HtmlPageTools/blob/master/doc/api/Ling/HtmlPageTools/Copilot/HtmlPageCopilot.md)
 
 
-HtmlPageCopilot::getTitle
+HtmlPageCopilot::hasTitle
 ================
 
 
 
-HtmlPageCopilot::getTitle — Returns the title of this instance.
+HtmlPageCopilot::hasTitle — Returns whether the title was defined.
 
 
 
@@ -16,12 +16,12 @@ Description
 ================
 
 
-public [HtmlPageCopilot::getTitle](https://github.com/lingtalfi/HtmlPageTools/blob/master/doc/api/Ling/HtmlPageTools/Copilot/HtmlPageCopilot/getTitle.md)() : string
+public [HtmlPageCopilot::hasTitle](https://github.com/lingtalfi/HtmlPageTools/blob/master/doc/api/Ling/HtmlPageTools/Copilot/HtmlPageCopilot/hasTitle.md)() : bool
 
 
 
 
-Returns the title of this instance.
+Returns whether the title was defined.
 
 
 
@@ -35,7 +35,7 @@ This method has no parameters.
 Return values
 ================
 
-Returns string.
+Returns bool.
 
 
 
@@ -49,5 +49,5 @@ See Also
 
 The [HtmlPageCopilot](https://github.com/lingtalfi/HtmlPageTools/blob/master/doc/api/Ling/HtmlPageTools/Copilot/HtmlPageCopilot.md) class.
 
-Previous method: [setTitle](https://github.com/lingtalfi/HtmlPageTools/blob/master/doc/api/Ling/HtmlPageTools/Copilot/HtmlPageCopilot/setTitle.md)<br>Next method: [hasTitle](https://github.com/lingtalfi/HtmlPageTools/blob/master/doc/api/Ling/HtmlPageTools/Copilot/HtmlPageCopilot/hasTitle.md)<br>
+Previous method: [getTitle](https://github.com/lingtalfi/HtmlPageTools/blob/master/doc/api/Ling/HtmlPageTools/Copilot/HtmlPageCopilot/getTitle.md)<br>Next method: [setDescription](https://github.com/lingtalfi/HtmlPageTools/blob/master/doc/api/Ling/HtmlPageTools/Copilot/HtmlPageCopilot/setDescription.md)<br>
 
