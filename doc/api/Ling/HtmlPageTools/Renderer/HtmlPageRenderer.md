@@ -4,7 +4,7 @@
 
 The HtmlPageRenderer class
 ================
-2019-04-24 --> 2019-04-26
+2019-04-24 --> 2019-04-29
 
 
 
@@ -67,11 +67,11 @@ Class synopsis
 class <span class="pl-k">HtmlPageRenderer</span>  {
 
 - Properties
-    - protected [Ling\HtmlPageTools\Copilot\HtmlPageCopilot](https://github.com/lingtalfi/HtmlPageTools/blob/master/doc/api/Ling/HtmlPageTools/Copilot/HtmlPageCopilot.md) [$copilot](#property-copilot) ;
+    - protected Ling\HtmlPageTools\Copilot\HtmlPageCopilot [$copilot](#property-copilot) ;
 
 - Methods
     - public [__construct](https://github.com/lingtalfi/HtmlPageTools/blob/master/doc/api/Ling/HtmlPageTools/Renderer/HtmlPageRenderer/__construct.md)() : void
-    - public [setCopilot](https://github.com/lingtalfi/HtmlPageTools/blob/master/doc/api/Ling/HtmlPageTools/Renderer/HtmlPageRenderer/setCopilot.md)([Ling\HtmlPageTools\Copilot\HtmlPageCopilot](https://github.com/lingtalfi/HtmlPageTools/blob/master/doc/api/Ling/HtmlPageTools/Copilot/HtmlPageCopilot.md) $copilot) : void
+    - public [setCopilot](https://github.com/lingtalfi/HtmlPageTools/blob/master/doc/api/Ling/HtmlPageTools/Renderer/HtmlPageRenderer/setCopilot.md)(Ling\HtmlPageTools\Copilot\HtmlPageCopilot $copilot) : void
     - public [printTop](https://github.com/lingtalfi/HtmlPageTools/blob/master/doc/api/Ling/HtmlPageTools/Renderer/HtmlPageRenderer/printTop.md)(string $topFile) : void
     - public [printBottom](https://github.com/lingtalfi/HtmlPageTools/blob/master/doc/api/Ling/HtmlPageTools/Renderer/HtmlPageRenderer/printBottom.md)(string $bottomFile) : void
 
@@ -108,6 +108,3 @@ Location
 Ling\HtmlPageTools\Renderer\HtmlPageRenderer
 
 
-SeeAlso
-==============
-Previous class: [HtmlPageException](https://github.com/lingtalfi/HtmlPageTools/blob/master/doc/api/Ling/HtmlPageTools/Exception/HtmlPageException.md)<br>
