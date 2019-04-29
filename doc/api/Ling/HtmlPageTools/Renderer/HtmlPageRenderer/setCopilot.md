@@ -16,7 +16,7 @@ Description
 ================
 
 
-public [HtmlPageRenderer::setCopilot](https://github.com/lingtalfi/HtmlPageTools/blob/master/doc/api/Ling/HtmlPageTools/Renderer/HtmlPageRenderer/setCopilot.md)(Ling\HtmlPageTools\Copilot\HtmlPageCopilot $copilot) : void
+public [HtmlPageRenderer::setCopilot](https://github.com/lingtalfi/HtmlPageTools/blob/master/doc/api/Ling/HtmlPageTools/Renderer/HtmlPageRenderer/setCopilot.md)([Ling\HtmlPageTools\Copilot\HtmlPageCopilot](https://github.com/lingtalfi/HtmlPageTools/blob/master/doc/api/Ling/HtmlPageTools/Copilot/HtmlPageCopilot.md) $copilot) : void
 
 
 

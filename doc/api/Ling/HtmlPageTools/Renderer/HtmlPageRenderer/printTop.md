@@ -43,6 +43,11 @@ Return values
 Returns void.
 
 
+Exceptions thrown
+================
+
+- [HtmlPageException](https://github.com/lingtalfi/HtmlPageTools/blob/master/doc/api/Ling/HtmlPageTools/Exception/HtmlPageException.md).&nbsp;
+
 
 
 
