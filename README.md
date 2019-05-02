@@ -38,6 +38,10 @@ Summary
 History Log
 =============
 
+- 1.3.0 -- 2019-05-02
+
+    - add CssFileGeneratorInterface
+    
 - 1.2.0 -- 2019-04-29
 
     - add cssCodeBlock concept, and the addCssCodeBlock and getCssCodeBlocks methods
