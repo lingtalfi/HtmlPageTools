@@ -210,6 +210,12 @@ class HtmlPageCopilot
      * Registers an asset library.
      * The library will be added only if it's not already registered.
      *
+     * Please for the names of your library, use the camelNotation, examples:
+     *
+     * - jquery
+     * - bootstrap
+     * - myLibrary
+     *
      *
      *
      * @param string $name

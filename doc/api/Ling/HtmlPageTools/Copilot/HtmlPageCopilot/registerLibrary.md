@@ -24,6 +24,12 @@ public [HtmlPageCopilot::registerLibrary](https://github.com/lingtalfi/HtmlPageT
 Registers an asset library.
 The library will be added only if it's not already registered.
 
+Please for the names of your library, use the camelNotation, examples:
+
+- jquery
+- bootstrap
+- myLibrary
+
 
 
 
@@ -58,7 +64,7 @@ Returns void.
 
 Source Code
 ===========
-See the source code for method [HtmlPageCopilot::registerLibrary](https://github.com/lingtalfi/HtmlPageTools/blob/master/Copilot/HtmlPageCopilot.php#L219-L224)
+See the source code for method [HtmlPageCopilot::registerLibrary](https://github.com/lingtalfi/HtmlPageTools/blob/master/Copilot/HtmlPageCopilot.php#L225-L230)
 
 
 See Also

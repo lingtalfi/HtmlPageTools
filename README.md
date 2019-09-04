@@ -38,6 +38,10 @@ Summary
 History Log
 =============
 
+- 2.0.1 -- 2019-08-30
+
+    - updated documentation
+
 - 2.0.0 -- 2019-08-30
 
     - added HtmlPageCopilot->registerLibrary as the only mean to add a library
