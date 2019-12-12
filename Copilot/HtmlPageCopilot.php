@@ -224,6 +224,15 @@ class HtmlPageCopilot
      * - bootstrap
      * - myLibrary
      *
+     * If you're using a library that comes from a universe planet, then use the planet name directly:
+     *
+     * - Chloroform_HeliumRenderer
+     * - JSortTable
+     * - ...
+     *
+     *
+     *
+     *
      *
      *
      * @param string $name

@@ -2,12 +2,12 @@
 [Back to the Ling\HtmlPageTools\Copilot\HtmlPageCopilot class](https://github.com/lingtalfi/HtmlPageTools/blob/master/doc/api/Ling/HtmlPageTools/Copilot/HtmlPageCopilot.md)
 
 
-HtmlPageCopilot::__construct
+HtmlPageCopilot::addModal
 ================
 
 
 
-HtmlPageCopilot::__construct — Builds the HtmlPage instance.
+HtmlPageCopilot::addModal — Adds a modal to this instance.
 
 
 
@@ -16,12 +16,12 @@ Description
 ================
 
 
-public [HtmlPageCopilot::__construct](https://github.com/lingtalfi/HtmlPageTools/blob/master/doc/api/Ling/HtmlPageTools/Copilot/HtmlPageCopilot/__construct.md)() : void
+public [HtmlPageCopilot::addModal](https://github.com/lingtalfi/HtmlPageTools/blob/master/doc/api/Ling/HtmlPageTools/Copilot/HtmlPageCopilot/addModal.md)(string $html) : void
 
 
 
 
-Builds the HtmlPage instance.
+Adds a modal to this instance.
 
 
 
@@ -29,7 +29,10 @@ Builds the HtmlPage instance.
 Parameters
 ================
 
-This method has no parameters.
+
+- html
+
+    
 
 
 Return values
@@ -46,7 +49,7 @@ Returns void.
 
 Source Code
 ===========
-See the source code for method [HtmlPageCopilot::__construct](https://github.com/lingtalfi/HtmlPageTools/blob/master/Copilot/HtmlPageCopilot.php#L109-L120)
+See the source code for method [HtmlPageCopilot::addModal](https://github.com/lingtalfi/HtmlPageTools/blob/master/Copilot/HtmlPageCopilot.php#L394-L397)
 
 
 See Also
@@ -54,5 +57,5 @@ See Also
 
 The [HtmlPageCopilot](https://github.com/lingtalfi/HtmlPageTools/blob/master/doc/api/Ling/HtmlPageTools/Copilot/HtmlPageCopilot.md) class.
 
-Next method: [setTitle](https://github.com/lingtalfi/HtmlPageTools/blob/master/doc/api/Ling/HtmlPageTools/Copilot/HtmlPageCopilot/setTitle.md)<br>
+Previous method: [getModals](https://github.com/lingtalfi/HtmlPageTools/blob/master/doc/api/Ling/HtmlPageTools/Copilot/HtmlPageCopilot/getModals.md)<br>
 
