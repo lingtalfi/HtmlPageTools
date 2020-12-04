@@ -38,6 +38,10 @@ Summary
 History Log
 =============
 
+- 2.2.1 -- 2020-12-04
+
+    - Add lpi-deps.byml file
+
 - 2.2.0 -- 2020-05-28
 
     - update HtmlPageCopilot->registerLibrary, add override option 
